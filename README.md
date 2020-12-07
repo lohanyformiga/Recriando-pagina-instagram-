@@ -1,9 +1,14 @@
 # Recriando-pagina-instagram
 
+<p align="center">
+  <img width="200" height="266" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-18.png">
+</p>
+
+
 # Sobre :speech_balloon:
 Com novo desagio da Digital innovation One 2021 tivemos que desenvolver a pagina inicial do Instagram.
 
-Este foi desenvolvido a nível didático, foi a primeira vez que fiz a tela principal do instagram e gostei muito do resultado.
+Este foi desenvolvido a nível didático, foi a primeira vez que fiz a tela principal do instagram e gostei muito do resulta
 
 ## Tecnologias :woman_technologist:	
  *HTML
